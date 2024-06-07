@@ -4,4 +4,4 @@
 # bye update
 
 bye
-good bye
+good byeㅁㅇㅁ
